@@ -13,6 +13,7 @@
         lazygit
         fastfetch
         yazi
+        gcc
       ];
     };
   };
