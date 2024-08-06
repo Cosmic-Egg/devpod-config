@@ -15,3 +15,4 @@ ln -sf "$PWD/starship.toml" "$HOME"/starship.toml
 ln -sf "$PWD/yazi" "$XDG_CONFIG_HOME"/yazi
 # install Nix packages from config.nix
 nix-env -iA nixpkgs.myPackages
+#curl https://pyenv.run | bash
