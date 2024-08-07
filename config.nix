@@ -14,7 +14,7 @@
         fastfetch
         yazi
         gcc
-        pyenv
+        # pyenv
       ];
     };
   };
