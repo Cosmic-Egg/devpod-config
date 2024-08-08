@@ -14,6 +14,7 @@
         fastfetch
         yazi
         gcc
+        tmux
         # pyenv
       ];
     };
