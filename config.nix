@@ -15,7 +15,7 @@
         yazi
         gcc
         tmux
-        cudatoolkit
+        # cudatoolkit
         wget
         # pyenv
       ];
